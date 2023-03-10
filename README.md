@@ -6,7 +6,7 @@ Aplikasi SI BISA merupakan aplikasi yang akan menjadi penghubung antara masyarak
 Harapan dari sistem ini adalah untuk mereduksi sampah yang menumpuk dan tidak dikelola dengan baik sebelum sampai ke TPA serta memotivasi masyarakat atau individu untuk mengelola sampah
 
 
-** Team Member : **
+**Team Member : **
 
     Muhammad Mustafa Kamal
     Nur Ridho Rizki
