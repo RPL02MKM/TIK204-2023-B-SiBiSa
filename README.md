@@ -8,7 +8,7 @@ Harapan dari sistem ini adalah untuk mereduksi sampah yang menumpuk dan tidak di
 
 **Team Member :**
 *Muhammad Mustafa Kamal
-*Nur Ridho Rizki
-*Panca Wiguna Sitanggang
-*Ahyar Maulana
-*M. Hafiz Maulana
+Nur Ridho Rizki
+Panca Wiguna Sitanggang
+Ahyar Maulana
+M. Hafiz Maulana
